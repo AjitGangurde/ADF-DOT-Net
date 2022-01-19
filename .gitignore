@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ADF-DotNetSdk/ADFDotNetSdk/obj
+/ADF-DotNetSdk/ADFDotNetSdk/bin/Debug
+/ADF-DotNetSdk/.vs/ADFDotNetSDK/v16
+/ADF-DotNetSdk/packages

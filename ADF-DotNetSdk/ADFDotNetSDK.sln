@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADFDotNetSDK", "ADFDotNetSdk\ADFDotNetSDK.csproj", "{C5543A96-D860-4E6F-BCE7-F72D2FAAE067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5543A96-D860-4E6F-BCE7-F72D2FAAE067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5543A96-D860-4E6F-BCE7-F72D2FAAE067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5543A96-D860-4E6F-BCE7-F72D2FAAE067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5543A96-D860-4E6F-BCE7-F72D2FAAE067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25F1B357-C44A-4368-A11C-59DD4FF44B29}
+	EndGlobalSection
+EndGlobal
